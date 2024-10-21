@@ -1,0 +1,14 @@
+/home/grant/projects/c_sharp/Hospital/bin/Debug/net8.0/Hospital
+/home/grant/projects/c_sharp/Hospital/bin/Debug/net8.0/Hospital.deps.json
+/home/grant/projects/c_sharp/Hospital/bin/Debug/net8.0/Hospital.runtimeconfig.json
+/home/grant/projects/c_sharp/Hospital/bin/Debug/net8.0/Hospital.dll
+/home/grant/projects/c_sharp/Hospital/bin/Debug/net8.0/Hospital.pdb
+/home/grant/projects/c_sharp/Hospital/obj/Debug/net8.0/Hospital.GeneratedMSBuildEditorConfig.editorconfig
+/home/grant/projects/c_sharp/Hospital/obj/Debug/net8.0/Hospital.AssemblyInfoInputs.cache
+/home/grant/projects/c_sharp/Hospital/obj/Debug/net8.0/Hospital.AssemblyInfo.cs
+/home/grant/projects/c_sharp/Hospital/obj/Debug/net8.0/Hospital.csproj.CoreCompileInputs.cache
+/home/grant/projects/c_sharp/Hospital/obj/Debug/net8.0/Hospital.dll
+/home/grant/projects/c_sharp/Hospital/obj/Debug/net8.0/refint/Hospital.dll
+/home/grant/projects/c_sharp/Hospital/obj/Debug/net8.0/Hospital.pdb
+/home/grant/projects/c_sharp/Hospital/obj/Debug/net8.0/Hospital.genruntimeconfig.cache
+/home/grant/projects/c_sharp/Hospital/obj/Debug/net8.0/ref/Hospital.dll

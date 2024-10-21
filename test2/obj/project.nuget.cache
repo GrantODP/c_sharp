@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QAYG2Hm9+/4=",
+  "success": true,
+  "projectFilePath": "/home/grant/projects/c_sharp/test2/test2.csproj",
+  "expectedPackageFiles": [
+    "/home/grant/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

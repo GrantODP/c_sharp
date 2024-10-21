@@ -1,0 +1,14 @@
+/home/grant/projects/c_sharp/SnapGame/bin/Debug/net8.0/SnapGame
+/home/grant/projects/c_sharp/SnapGame/bin/Debug/net8.0/SnapGame.deps.json
+/home/grant/projects/c_sharp/SnapGame/bin/Debug/net8.0/SnapGame.runtimeconfig.json
+/home/grant/projects/c_sharp/SnapGame/bin/Debug/net8.0/SnapGame.dll
+/home/grant/projects/c_sharp/SnapGame/bin/Debug/net8.0/SnapGame.pdb
+/home/grant/projects/c_sharp/SnapGame/obj/Debug/net8.0/SnapGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/grant/projects/c_sharp/SnapGame/obj/Debug/net8.0/SnapGame.AssemblyInfoInputs.cache
+/home/grant/projects/c_sharp/SnapGame/obj/Debug/net8.0/SnapGame.AssemblyInfo.cs
+/home/grant/projects/c_sharp/SnapGame/obj/Debug/net8.0/SnapGame.csproj.CoreCompileInputs.cache
+/home/grant/projects/c_sharp/SnapGame/obj/Debug/net8.0/SnapGame.dll
+/home/grant/projects/c_sharp/SnapGame/obj/Debug/net8.0/refint/SnapGame.dll
+/home/grant/projects/c_sharp/SnapGame/obj/Debug/net8.0/SnapGame.pdb
+/home/grant/projects/c_sharp/SnapGame/obj/Debug/net8.0/SnapGame.genruntimeconfig.cache
+/home/grant/projects/c_sharp/SnapGame/obj/Debug/net8.0/ref/SnapGame.dll

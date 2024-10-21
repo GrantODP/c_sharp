@@ -1,0 +1,14 @@
+/home/grant/projects/c_sharp/wk32/bin/Debug/net8.0/wk32
+/home/grant/projects/c_sharp/wk32/bin/Debug/net8.0/wk32.deps.json
+/home/grant/projects/c_sharp/wk32/bin/Debug/net8.0/wk32.runtimeconfig.json
+/home/grant/projects/c_sharp/wk32/bin/Debug/net8.0/wk32.dll
+/home/grant/projects/c_sharp/wk32/bin/Debug/net8.0/wk32.pdb
+/home/grant/projects/c_sharp/wk32/obj/Debug/net8.0/wk32.GeneratedMSBuildEditorConfig.editorconfig
+/home/grant/projects/c_sharp/wk32/obj/Debug/net8.0/wk32.AssemblyInfoInputs.cache
+/home/grant/projects/c_sharp/wk32/obj/Debug/net8.0/wk32.AssemblyInfo.cs
+/home/grant/projects/c_sharp/wk32/obj/Debug/net8.0/wk32.csproj.CoreCompileInputs.cache
+/home/grant/projects/c_sharp/wk32/obj/Debug/net8.0/wk32.dll
+/home/grant/projects/c_sharp/wk32/obj/Debug/net8.0/refint/wk32.dll
+/home/grant/projects/c_sharp/wk32/obj/Debug/net8.0/wk32.pdb
+/home/grant/projects/c_sharp/wk32/obj/Debug/net8.0/wk32.genruntimeconfig.cache
+/home/grant/projects/c_sharp/wk32/obj/Debug/net8.0/ref/wk32.dll

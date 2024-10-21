@@ -1,0 +1,14 @@
+/home/grant/projects/c_sharp/test2/obj/Debug/net8.0/test2.GeneratedMSBuildEditorConfig.editorconfig
+/home/grant/projects/c_sharp/test2/obj/Debug/net8.0/test2.AssemblyInfoInputs.cache
+/home/grant/projects/c_sharp/test2/obj/Debug/net8.0/test2.AssemblyInfo.cs
+/home/grant/projects/c_sharp/test2/obj/Debug/net8.0/test2.csproj.CoreCompileInputs.cache
+/home/grant/projects/c_sharp/test2/bin/Debug/net8.0/test2
+/home/grant/projects/c_sharp/test2/bin/Debug/net8.0/test2.deps.json
+/home/grant/projects/c_sharp/test2/bin/Debug/net8.0/test2.runtimeconfig.json
+/home/grant/projects/c_sharp/test2/bin/Debug/net8.0/test2.dll
+/home/grant/projects/c_sharp/test2/bin/Debug/net8.0/test2.pdb
+/home/grant/projects/c_sharp/test2/obj/Debug/net8.0/test2.dll
+/home/grant/projects/c_sharp/test2/obj/Debug/net8.0/refint/test2.dll
+/home/grant/projects/c_sharp/test2/obj/Debug/net8.0/test2.pdb
+/home/grant/projects/c_sharp/test2/obj/Debug/net8.0/test2.genruntimeconfig.cache
+/home/grant/projects/c_sharp/test2/obj/Debug/net8.0/ref/test2.dll

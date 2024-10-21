@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "okIHSAU0p3c=",
+  "success": true,
+  "projectFilePath": "/home/grant/projects/c_sharp/wk32/wk32.csproj",
+  "expectedPackageFiles": [
+    "/home/grant/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

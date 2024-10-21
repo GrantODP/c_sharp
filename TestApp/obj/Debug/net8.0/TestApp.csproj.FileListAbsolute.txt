@@ -1,0 +1,14 @@
+/home/grant/projects/c_sharp/TestApp/bin/Debug/net8.0/TestApp
+/home/grant/projects/c_sharp/TestApp/bin/Debug/net8.0/TestApp.deps.json
+/home/grant/projects/c_sharp/TestApp/bin/Debug/net8.0/TestApp.runtimeconfig.json
+/home/grant/projects/c_sharp/TestApp/bin/Debug/net8.0/TestApp.dll
+/home/grant/projects/c_sharp/TestApp/bin/Debug/net8.0/TestApp.pdb
+/home/grant/projects/c_sharp/TestApp/obj/Debug/net8.0/TestApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/grant/projects/c_sharp/TestApp/obj/Debug/net8.0/TestApp.AssemblyInfoInputs.cache
+/home/grant/projects/c_sharp/TestApp/obj/Debug/net8.0/TestApp.AssemblyInfo.cs
+/home/grant/projects/c_sharp/TestApp/obj/Debug/net8.0/TestApp.csproj.CoreCompileInputs.cache
+/home/grant/projects/c_sharp/TestApp/obj/Debug/net8.0/TestApp.dll
+/home/grant/projects/c_sharp/TestApp/obj/Debug/net8.0/refint/TestApp.dll
+/home/grant/projects/c_sharp/TestApp/obj/Debug/net8.0/TestApp.pdb
+/home/grant/projects/c_sharp/TestApp/obj/Debug/net8.0/TestApp.genruntimeconfig.cache
+/home/grant/projects/c_sharp/TestApp/obj/Debug/net8.0/ref/TestApp.dll
